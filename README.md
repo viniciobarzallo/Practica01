@@ -1,12 +1,12 @@
 # Astronomia
-Resolución de problemas sobre HTML5.
+Despues de seguir una estructura correcto con cada una de las etiquetas nuestra pagina realizada en HTML5 nos queda un buen resultado.
+
 
 <h1>Objectivo</h1>
 
 <ul>  
   <li> Crear la estructura de un documento HTML </li>
-  <li> Insertar elementos y atributos HTML </li>
-  <li> Marcar contenido usando listas crea una lista de navegación </li>
-  <li> enlace a archivos dentro de un sitio web con enlaces de hipertexto </li>
+  <li> Insertar etiquetas </li>
+  <li> Darle un correcto uso de cada uno de ellas </li>
   </ul>
 
